@@ -1,4 +1,4 @@
-#  Hello, I'm Manuela :wave:
+##  Hello, I'm Manuela :wave:
 
 After a few years of working in commerce, I felt it was time to reach for something new. I began an adventure with testing and I am looking for a place where I could develop my skills in the IT industry as a manual tester.
 
