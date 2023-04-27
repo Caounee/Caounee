@@ -18,7 +18,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ### Other tools:
 - &nbsp; ![Affinity Photo](https://img.shields.io/badge/-Affinity%20Photo-0A1A2F?style=flat&logo=affinityphoto&logoColor=00d8fd)
-         ![Corel](https://img.shields.io/badge/-Corel-0A1A2F?style=flat&logo=corel&logoColor=00d8fd)
+         ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-0A1A2F?style=flat&logo=coreldraw&logoColor=00d8fd)
          ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0A1A2F?style=flat&logo=adobephotoshop&logoColor=00d8fd)
          ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-0A1A2F?style=flat&logo=adobeillustrator&logoColor=00d8fd)
          ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-0A1A2F?style=flat&logo=adobeindesign&logoColor=00d8fd)
