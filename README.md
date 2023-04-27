@@ -2,7 +2,7 @@
 
 After a few years of working in commerce, I felt it was time to reach for something new. I began an adventure with testing and I am looking for a place where I could develop my skills in the IT industry as a manual tester.
 
-## :small_blue_diamond: <a href="https://www.linkedin.com/in/manuela-wystup/"> My <b>LinkedIn</b> profile</a> :small_blue_diamond:
+## <a href="https://www.linkedin.com/in/manuela-wystup/"> My <b>LinkedIn</b> profile</a> :arrow_backward:
 
 ### Testing tools:
 
