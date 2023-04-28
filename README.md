@@ -23,12 +23,12 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ### Other tools:
 - &nbsp; ![Affinity Photo](https://img.shields.io/badge/-Affinity%20Photo-0A1A2F?style=flat&logo=affinityphoto&logoColor=00d8fd)
-         ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-0A1A2F?style=flat&logo=coreldraw&logoColor=00d8fd)
-         ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0A1A2F?style=flat&logo=adobephotoshop&logoColor=00d8fd)
-         ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-0A1A2F?style=flat&logo=adobeillustrator&logoColor=00d8fd)
-         ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-0A1A2F?style=flat&logo=adobeindesign&logoColor=00d8fd)
-         ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-0A1A2F?style=flat&logo=adobeaftereffects&logoColor=00d8fd)
-         ![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-0A1A2F?style=flat&logo=adobeaudition&logoColor=00d8fd)
+- &nbsp; ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-0A1A2F?style=flat&logo=coreldraw&logoColor=00d8fd)
+- &nbsp; ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0A1A2F?style=flat&logo=adobephotoshop&logoColor=00d8fd)
+- &nbsp; ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-0A1A2F?style=flat&logo=adobeillustrator&logoColor=00d8fd)
+- &nbsp; ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-0A1A2F?style=flat&logo=adobeindesign&logoColor=00d8fd)
+- &nbsp; ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-0A1A2F?style=flat&logo=adobeaftereffects&logoColor=00d8fd)
+- &nbsp; ![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-0A1A2F?style=flat&logo=adobeaudition&logoColor=00d8fd)
 
 <!---
 Caounee/Caounee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
