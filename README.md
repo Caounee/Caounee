@@ -9,7 +9,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ## ▶️ <a href="https://www.linkedin.com/in/manuela-wystup/"> My <b>LinkedIn</b> profile</a> ◀️
 
-### Testing tools:
+### Testing tools
 
 * &nbsp; ![Jira](https://img.shields.io/badge/-Jira-0A1A2F?style=flat&logo=jira&logoColor=00d8fd)
          ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat&logo=testrail&logoColor=00d8fd)
@@ -21,7 +21,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 * &nbsp; ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-0A1A2F?style=flat&logo=microsoftword&logoColor=00d8fd)
          ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-0A1A2F?style=flat&logo=microsoftexcel&logoColor=00d8fd)
 
-### Other tools:
+### Other tools
 * &nbsp; ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-0A1A2F?style=flat&logo=coreldraw&logoColor=00d8fd)
          ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0A1A2F?style=flat&logo=adobephotoshop&logoColor=00d8fd)
 <p> basic of: </p>
