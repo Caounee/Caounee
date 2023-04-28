@@ -5,7 +5,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 <p align="center"><img src="https://img.freepik.com/darmowe-wektory/szczesliwi-malutcy-ludzie-w-poblizu-ogromnej-powitalnej-plaskiej-ilustracji_74855-10808.jpg?w=996&t=st=1682616745~exp=1682617345~hmac=fab41c3fde42b90b7c3c0be59b2df240ad1609b2539bceec7e4ad87ebfd0b29e" alt="Obraz autorstwa pch.vector na Freepik" width="60%"></p>
 
-###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/szczesliwi-malutcy-ludzie-w-poblizu-ogromnej-powitalnej-plaskiej-ilustracji_11235579.htm#query=welcome&position=10&from_view=search&track=robertav1_2_sidr" target="_blank">Image by rawpixel.com on Freepik</a></p> 
+###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/szczesliwi-malutcy-ludzie-w-poblizu-ogromnej-powitalnej-plaskiej-ilustracji_11235579.htm#query=welcome&position=10&from_view=search&track=robertav1_2_sidr" target="_blank"><i>Image by rawpixel.com on Freepik</i></a></p> 
 
 ## ▶️ <a href="https://www.linkedin.com/in/manuela-wystup/"> My <b>LinkedIn</b> profile</a> ◀️
 
