@@ -7,7 +7,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 
 ###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/szczesliwi-malutcy-ludzie-w-poblizu-ogromnej-powitalnej-plaskiej-ilustracji_11235579.htm#query=welcome&position=10&from_view=search&track=robertav1_2_sidr" target="_blank">Image by rawpixel.com on Freepik</a></p> 
 
-## <a href="https://www.linkedin.com/in/manuela-wystup/"> My <b>LinkedIn</b> profile</a> :arrow_backward:
+## ▶️ <a href="https://www.linkedin.com/in/manuela-wystup/"> My <b>LinkedIn</b> profile</a> ◀️
 
 ### Testing tools:
 
