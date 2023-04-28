@@ -22,8 +22,8 @@ After a few years of working in commerce, I felt it was time to reach for someth
          ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-0A1A2F?style=flat&logo=microsoftexcel&logoColor=00d8fd)
 
 ### Other tools:
-- &nbsp; ![Affinity Photo](https://img.shields.io/badge/-Affinity%20Photo-0A1A2F?style=flat&logo=affinityphoto&logoColor=00d8fd)
 - &nbsp; ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-0A1A2F?style=flat&logo=coreldraw&logoColor=00d8fd)
+- &nbsp; ![Affinity Photo](https://img.shields.io/badge/-Affinity%20Photo-0A1A2F?style=flat&logo=affinityphoto&logoColor=00d8fd)
 - &nbsp; ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0A1A2F?style=flat&logo=adobephotoshop&logoColor=00d8fd)
 - &nbsp; ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-0A1A2F?style=flat&logo=adobeillustrator&logoColor=00d8fd)
 - &nbsp; ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-0A1A2F?style=flat&logo=adobeindesign&logoColor=00d8fd)
