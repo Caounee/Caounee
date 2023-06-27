@@ -18,7 +18,7 @@ After a few years of working in commerce, I felt it was time to reach for someth
 * &nbsp; ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd) - basics
 
 * &nbsp; ![GIT](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git&logoColor=00d8fd)
-         ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd) - basics
+         ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd)
          
 * &nbsp; ![DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=devtools&logoColor=00d8fd) - basics
                  
