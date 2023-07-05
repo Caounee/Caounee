@@ -1,6 +1,6 @@
 ##  Hello, I'm Manuela :wave:
 
-After a few years of working in commerce, I felt it was time to reach for something new. I began an adventure with testing and I am looking for a place where I could develop my skills in the IT industry as a manual tester.
+After a few years of working in the trade industry, I felt it was time to reach for something new. I began an adventure with testing and I am looking for a place where I could develop my skills in the IT industry as a manual tester.
 
 
 <p align="center"><img src="https://img.freepik.com/darmowe-wektory/szczesliwi-malutcy-ludzie-w-poblizu-ogromnej-powitalnej-plaskiej-ilustracji_74855-10808.jpg?w=996&t=st=1682616745~exp=1682617345~hmac=fab41c3fde42b90b7c3c0be59b2df240ad1609b2539bceec7e4ad87ebfd0b29e" alt="Obraz autorstwa pch.vector na Freepik" width="60%"></p>
@@ -28,7 +28,9 @@ After a few years of working in commerce, I felt it was time to reach for someth
          ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=css3&logoColor=00d8fd) <i>- basics</i></p>
          
 * &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 * &nbsp; ![Trello](https://img.shields.io/badge/-Trello-0A1A2F?style=flat&logo=trello&logoColor=00d8fd)
+
 * &nbsp; ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-0A1A2F?style=flat&logo=microsoftword&logoColor=00d8fd)
          ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-0A1A2F?style=flat&logo=microsoftexcel&logoColor=00d8fd)
 
