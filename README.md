@@ -17,7 +17,8 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 ### Testing tools
 
 * &nbsp; ![Jira](https://img.shields.io/badge/-Jira-0A1A2F?style=flat&logo=jira&logoColor=00d8fd)
-         ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=00d8fd)
+  
+* &nbsp; ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=00d8fd)
 
 * &nbsp; ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat&logo=testrail&logoColor=00d8fd)
          ![Zephyr](https://img.shields.io/badge/-Zephyr-0A1A2F?style=flat&logo=zephyr&logoColor=00d8fd)
@@ -26,15 +27,17 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 * &nbsp; ![DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=devtools&logoColor=00d8fd)
 
-* &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd)
-         ![GIT](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git&logoColor=00d8fd)
+* &nbsp; ![GIT](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git&logoColor=00d8fd)
+         ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd)
 
 * &nbsp; ![REST API](https://img.shields.io/badge/-RESTAPI-0A1A2F?style=flat&logo=restapi&logoColor=00d8fd)
 
 * &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
 
 * &nbsp; ![JSON](https://img.shields.io/badge/-JSON-0A1A2F?style=flat&logo=json&logoColor=00d8fd)
-         
+
+* &nbsp; ![XML](https://img.shields.io/badge/-XML-0A1A2F?style=flat&logo=xml&logoColor=00d8fd)
+
 * &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5&logoColor=00d8fd)
          ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=css3&logoColor=00d8fd)
          
