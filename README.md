@@ -22,15 +22,15 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 * &nbsp; ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat&logo=testrail&logoColor=00d8fd)
          ![Zephyr](https://img.shields.io/badge/-Zephyr-0A1A2F?style=flat&logo=zephyr&logoColor=00d8fd)
          
-* &nbsp; ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd) <i>- basics</i>
+* &nbsp; ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
 
 * &nbsp; ![GIT](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git&logoColor=00d8fd)
          ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd)
          
-* &nbsp; ![DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=devtools&logoColor=00d8fd) <i>- basics</i>
+* &nbsp; ![DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=devtools&logoColor=00d8fd)
                  
 * &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5&logoColor=00d8fd)
-         ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=css3&logoColor=00d8fd) <i>- basics</i></p>
+         ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=css3&logoColor=00d8fd)
          
 * &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
