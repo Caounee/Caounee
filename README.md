@@ -24,11 +24,17 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
          
 * &nbsp; ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
 
-* &nbsp; ![GIT](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git&logoColor=00d8fd)
-         ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd)
-         
 * &nbsp; ![DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=devtools&logoColor=00d8fd)
-                 
+
+* &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd)
+         ![GIT](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git&logoColor=00d8fd)
+
+* &nbsp; ![REST API](https://img.shields.io/badge/-RESTAPI-0A1A2F?style=flat&logo=restapi&logoColor=00d8fd)
+
+* &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
+
+* &nbsp; ![JSON](https://img.shields.io/badge/-JSON-0A1A2F?style=flat&logo=json&logoColor=00d8fd)
+         
 * &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5&logoColor=00d8fd)
          ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=css3&logoColor=00d8fd)
          
@@ -36,7 +42,8 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 * &nbsp; ![Trello](https://img.shields.io/badge/-Trello-0A1A2F?style=flat&logo=trello&logoColor=00d8fd)
 
-* &nbsp; ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-0A1A2F?style=flat&logo=microsoftword&logoColor=00d8fd)
+* &nbsp; ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0A1A2F?style=flat&logo=microsoftoffice&logoColor=00d8fd)
+         ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-0A1A2F?style=flat&logo=microsoftword&logoColor=00d8fd)
          ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-0A1A2F?style=flat&logo=microsoftexcel&logoColor=00d8fd)
 
 ### Other tools
