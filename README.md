@@ -1,6 +1,6 @@
 ##  Hello, I'm Manuela :wave:
 
-I am a beginner tester who recently decided recently decided to change the industry from trading to testing. My approach is full of enthusiasm and passion for exploring the world of software testing and learning new skills in the field.
+I am a beginner tester who recently decided to change the industry from trading industry. My approach is full of enthusiasm and passion for exploring the tester's world. I would like to join an inspiring team and grow together.
 
 For several years I worked in the trade industry, where I developed skills in customer service, project management and problem solving. I am convinced that this valuable knowledge and experience will be useful to take on new challenges and grow as a professional tester.
 
