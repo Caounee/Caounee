@@ -30,7 +30,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 * &nbsp; ![GIT](https://img.shields.io/badge/-GIT-0A1A2F?style=flat&logo=git&logoColor=00d8fd)
          ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=00d8fd)
 
-* &nbsp; ![REST API](https://img.shields.io/badge/-RESTAPI-0A1A2F?style=flat&logo=restapi&logoColor=00d8fd)
+* &nbsp; ![REST API](https://img.shields.io/badge/-REST%20API-0A1A2F?style=flat&logo=restapi&logoColor=00d8fd)
 
 * &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
 
