@@ -41,6 +41,7 @@ If you are looking for the full enthusiasm and commitment of the tester, feel fr
 
 * &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5&logoColor=00d8fd)
          ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=css3&logoColor=00d8fd)
+         ![JavaScript](https://img.shields.io/badge/-Java%20Script-0A1A2F?style=flat&logo=java-script&logoColor=00d8fd)
          
 * &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
