@@ -1,10 +1,10 @@
 ##  Hello, I'm Manuela :wave:
 
-For over a year I have been working on individual development in testing. I worked in the retail industry for several years, where I developed skills in customer service, project management, and problem-solving. I am confident that this valuable knowledge and experience will be useful in taking on new challenges and growing as a professional tester.
+I am passionately and actively developing my career by combining experience in sales with skills in software testing. For several years, I worked as a salesperson, where I learned effective customer communication, time management, and problem-solving.
 
-I am meticulous, conscientious and ready to take on new challenges. My previous experience has taught me communication, flexibility and the ability to thrive in a dynamic environment. Now, I want to use these skills to work with a team, focus on details, and deliver high-quality software.
+Now, I am focusing on software testing, gaining knowledge and hands-on experience in identifying and reporting bugs. I am committed to continuously improving my skills and expanding my knowledge to deliver the highest quality in my work.
 
-If you are looking for a tester full of enthusiasm and commitment, feel free to reach out. Currently, I am diligently expanding my knowledge of SQL and JavaScript. Soon, I plan to start learning test automation.
+I am driven by a desire for excellence, precision, and determination in achieving goals. I am open to new challenges and eager to take on tasks that allow me to grow professionally.
 
 <p align="center"><img src="https://img.freepik.com/darmowe-wektory/szczesliwi-malutcy-ludzie-w-poblizu-ogromnej-powitalnej-plaskiej-ilustracji_74855-10808.jpg?w=996&t=st=1682616745~exp=1682617345~hmac=fab41c3fde42b90b7c3c0be59b2df240ad1609b2539bceec7e4ad87ebfd0b29e" alt="Obraz autorstwa pch.vector na Freepik" width="60%"></p>
 
@@ -42,6 +42,7 @@ If you are looking for a tester full of enthusiasm and commitment, feel free to 
          ![JavaScript](https://img.shields.io/badge/-Java%20Script-0A1A2F?style=flat&logo=java-script&logoColor=00d8fd)
          
 * &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+         ![Web Storm](https://img.shields.io/badge/-Web%20Storm-0A1A2F?style=flat&logo=web-storm&logoColor=007ACC)
 
 * &nbsp; ![Trello](https://img.shields.io/badge/-Trello-0A1A2F?style=flat&logo=trello&logoColor=00d8fd)
 
