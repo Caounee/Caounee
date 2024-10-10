@@ -1,10 +1,10 @@
 ##  Hello, I'm Manuela :wave:
 
-I am passionately and actively developing my career by combining experience in sales with skills in software testing. For several years, I worked as a salesperson, where I learned effective customer communication, time management, and problem-solving.
+With passion and commitment, I am developing my career in software testing, combining my experience in retail with growing technical skills. Working as a salesperson for several years allowed me to improve my communication, time management, and problem-solving skills.
 
-Now, I am focusing on software testing, gaining knowledge and hands-on experience in identifying and reporting bugs. I am committed to continuously improving my skills and expanding my knowledge to deliver the highest quality in my work.
+Currently, I focus on software testing, including test automation, gaining knowledge and practical experience in identifying and reporting bugs and creating effective tests. I am determined to continuously improve my skills and deliver high-quality results in every project.
 
-I am driven by a desire for excellence, precision, and determination in achieving goals. I am open to new challenges and eager to take on tasks that allow me to grow professionally.
+My key traits are striving for precision, responsibility, and determination, which help me achieve my goals. I am open to new challenges that allow me to develop my testing skills, especially in automation.
 
 <p align="center"><img src="https://img.freepik.com/darmowe-wektory/szczesliwi-malutcy-ludzie-w-poblizu-ogromnej-powitalnej-plaskiej-ilustracji_74855-10808.jpg?w=996&t=st=1682616745~exp=1682617345~hmac=fab41c3fde42b90b7c3c0be59b2df240ad1609b2539bceec7e4ad87ebfd0b29e" alt="Obraz autorstwa pch.vector na Freepik" width="60%"></p>
 
