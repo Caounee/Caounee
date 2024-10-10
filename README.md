@@ -18,6 +18,8 @@ I am driven by a desire for excellence, precision, and determination in achievin
   
 * &nbsp; ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=00d8fd)
 
+* &nbsp; ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-0A1A2F?style=flat&logo=azuredevops&logoColor=00d8fd)
+
 * &nbsp; ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat&logo=testrail&logoColor=00d8fd)
          ![Zephyr](https://img.shields.io/badge/-Zephyr-0A1A2F?style=flat&logo=zephyr&logoColor=00d8fd)
 
@@ -43,10 +45,13 @@ I am driven by a desire for excellence, precision, and determination in achievin
          
 * &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
          ![Web Storm](https://img.shields.io/badge/-Web%20Storm-0A1A2F?style=flat&logo=web-storm&logoColor=007ACC)
+  
+* &nbsp; ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma&logoColor=00d8fd)
 
 * &nbsp; ![Trello](https://img.shields.io/badge/-Trello-0A1A2F?style=flat&logo=trello&logoColor=00d8fd)
 
-* &nbsp; ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0A1A2F?style=flat&logo=microsoftoffice&logoColor=00d8fd)
+* &nbsp; ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-0A1A2F?style=flat&logo=microsoftteams&logoColor=00d8fd)
+         ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0A1A2F?style=flat&logo=microsoftoffice&logoColor=00d8fd)
          ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-0A1A2F?style=flat&logo=microsoftword&logoColor=00d8fd)
          ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-0A1A2F?style=flat&logo=microsoftexcel&logoColor=00d8fd)
 
@@ -55,10 +60,6 @@ I am driven by a desire for excellence, precision, and determination in achievin
 * &nbsp; ![Affinity Photo](https://img.shields.io/badge/-Affinity%20Photo-0A1A2F?style=flat&logo=affinityphoto&logoColor=00d8fd)
          ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-0A1A2F?style=flat&logo=coreldraw&logoColor=00d8fd)
          ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0A1A2F?style=flat&logo=adobephotoshop&logoColor=00d8fd)
-         ![Adobe Illustr&nbsp;ator](https://img.shields.io/badge/-Adobe%20Illustrator-0A1A2F?style=flat&logo=adobeillustrator&logoColor=00d8fd)
-         ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-0A1A2F?style=flat&logo=adobeindesign&logoColor=00d8fd)
-         ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-0A1A2F?style=flat&logo=adobeaftereffects&logoColor=00d8fd)
-         ![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-0A1A2F?style=flat&logo=adobeaudition&logoColor=00d8fd) <i>- basics</i>
 
 <!---
 Caounee/Caounee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
