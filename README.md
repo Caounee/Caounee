@@ -18,7 +18,7 @@ My key traits are striving for precision, responsibility, and determination, whi
   
 * &nbsp; ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence&logoColor=00d8fd)
 
-* &nbsp; ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-0A1A2F?style=flat&logo=azuredevops&logoColor=00d8fd)
+* &nbsp; ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0A1A2F?style=flat&logo=azuredevops&logoColor=00d8fd)
 
 * &nbsp; ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat&logo=testrail&logoColor=00d8fd)
          ![Zephyr](https://img.shields.io/badge/-Zephyr-0A1A2F?style=flat&logo=zephyr&logoColor=00d8fd)
